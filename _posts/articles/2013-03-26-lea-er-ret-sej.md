@@ -1,14 +1,12 @@
 ---
 layout: article
-title: Lea er faktisk ret sej!
-descr: Og nu har hun sit eget hjørne af internettet, hvor hun kan sige det højt.
+title: Just hjemvendt!
+descr: Lea er nu tilbage fra eksotiske Tyingen i Norge.
 author: Lea Halkier
 categories:
 - lea
 ---
 
-Lea er er lidt sejere end de fleste andre.
-
-Her kan hun skrive en masse info om, hvor sej hun faktisk er.
+Lea er nu tilbage fra eksotiske Tyingen i Norge, hvor hun har afsluttet sin uddannelse som telemark-instruktør med ret til at bære ski og egeløv.
 
 
